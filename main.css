@@ -1,0 +1,10 @@
+#box {
+    background-color: rgba(9, 236, 130, 0.096);
+    margin-left: -7px;
+    position:fixed;
+    height: 1000px;
+    top:0;
+    left:auto;
+    width: 100px;
+    border: 1px silid black;
+}
