@@ -1,0 +1,9 @@
+footer {
+    /* margin-left: 100px; */
+    z-index: 999;
+    width: 100%;
+    background-color: rgba(45, 90, 45, 0.151);
+}
+footer p{
+    text-align: center;
+}
